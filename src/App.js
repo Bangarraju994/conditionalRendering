@@ -2,14 +2,12 @@ import LoginPage from "./Components/Loginpage";
 
 const App = () => (
 
-    
   <div>
-  
     <h1 > Hello, User </h1> 
     <div> 
-    <LoginPage />
-
-  </div>
+      <LoginPage />
+    </div>
+    
   </div>
   )
 
